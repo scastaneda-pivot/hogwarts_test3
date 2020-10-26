@@ -1,0 +1,27 @@
+#hideMe {
+  background:green; 
+  display: none;
+}
+
+#allStudents {
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.red {
+  display: flex;
+  background-color: red;
+}
+
+.blue {
+  display: flex;
+  background-color: blue;
+}
+.green {
+  display: flex;
+  background-color: green;
+}
+.orange {
+  display: flex;
+  background-color: orange;
+}
